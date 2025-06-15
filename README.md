@@ -1,12 +1,20 @@
-# React + Vite
+# Graduation Project Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application to manage graduation projects for students, teachers, and admins. Built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Links
 
-## Expanding the ESLint configuration
+-  **Student Page**: [https://react-gradprojects.onrender.com](https://react-gradprojects.onrender.com)
+-  **Admin & Teacher Login**: [https://react-gradprojects.onrender.com/login/staff](https://react-gradprojects.onrender.com/login/staff)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Test Accounts
+
+| Role    | Email                        | Password |
+|---------|------------------------------|----------|
+| Admin   | admin@twuaiq.com             | 123456   |
+| Teacher | sara@tuwaiq.com              | 123456   |
+| Student | asma.tuwaiq@gmail.com        | 123456   |
